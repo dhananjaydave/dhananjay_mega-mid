@@ -1,1 +1,1 @@
-web:gunicorn  dhananjay.wsgi
+web: gunicorn CCMS.wsgi --log-file -
